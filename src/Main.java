@@ -105,6 +105,7 @@ public class Main {
 		boolean diag2 = (board[0][2] == player && board[1][1] == player && board[2][0] == player); 
 		
 		return row1 || row2 || row3 || col1 || col2 || col3 || diag1 || diag2; 
+
 	}
 
 }
