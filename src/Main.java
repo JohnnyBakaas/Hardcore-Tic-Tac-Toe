@@ -13,7 +13,7 @@ public class Main {
 		
 		char spiller = 'X';
 		
-		while (true) {
+		//while (true) {
 			
 			System.out.println("Spiller " + spiller + ", hvor vil du plasere brikken din?");
 			
@@ -34,7 +34,7 @@ public class Main {
 			System.out.println("Så, velg mellom 1, 2 og 3");
 			String brukerImputTall = sc.next();
 			int brukerImputTallTilInt = 99;
-			if (brukerImputTall.equals("1")) {
+			//if (brukerImputTall.equals("1")) {
 				brukerImputTallTilInt = 0;
 			} else if (brukerImputTall.equals("2")) {
 				brukerImputTallTilInt = 1;
@@ -60,7 +60,13 @@ public class Main {
 			}
 			if (isWinner(spiller, bord)) {
 				System.out.println("Gratulerer spiller " + spiller + "! Du vant!");
-				break;
+		exw fjhjiæausd,vbghkjdfjæhoskfpæjlmklebhterygtuisodjf
+		an¨gJF
+		HA¨HADF
+		HSDGGJG
+		HADG
+		HA
+		
 			}
 				
 			
